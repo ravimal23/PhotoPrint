@@ -20,7 +20,7 @@ class ViewController: UIViewController {
         self.performSegue(withIdentifier: "HomePage", sender: self);
     }
     
-    //exmaple is running...
+    //exmaple is running... yes
     
     
     
